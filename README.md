@@ -9,7 +9,7 @@ git clone https://github.com/heizence/CS-1st-project-Foodo-server.git
 ```
 2. Open
 ```
-cd CS-1st-project-Foodo-client
+cd CS-1st-project-Foodo-server
 ```
 3. Install
 ```
@@ -19,6 +19,9 @@ npm install
 ```
 node app.js
 ```
+
+## More Informations
++ [More about this project](https://slides.com/bangsil/deck-3#/)
 
 ## Contributors
 Front-end: 정재숙, 금도헌   
